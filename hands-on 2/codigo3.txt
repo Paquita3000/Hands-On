@@ -1,0 +1,3 @@
+string a = "Hola" //Mundo
+int a = 5;
+return a * (10 + 2);
